@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![readmebox](https://github.com/yaelahman/yaelahman/assets/66738196/ff3a8f9e-4a51-4147-b7ad-23dc02f6e3b5)
-<h1 align="center">Hi 👋, I'm Muhammad Iman FUrqon</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Iman Furqon</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Indonesia</h3>
 
 - 🔭 I’m currently working on [Manzcode](https://manzcode.com)
